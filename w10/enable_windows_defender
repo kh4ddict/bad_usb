@@ -1,5 +1,5 @@
 REM Made by Khaddict
-REM Disable Windows Defender for Windows 10 (for a toaster, add more delay)
+REM Enable Windows Defender for Windows 10 (for a toaster, add more delay)
 REM Version 1.0
 CTRL ESC
 DELAY 250
@@ -26,8 +26,6 @@ DELAY 100
 TAB
 DELAY 100
 ENTER
-DELAY 250
-SPACE
 DELAY 500
 LEFTARROW
 DELAY 500
